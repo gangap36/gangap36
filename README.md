@@ -8,10 +8,8 @@ I am **Undergraduate Computer Science and Information Technology** student at [T
 - 💬 Ask me about anything.😄
 - ⚡ Fun fact: I love eating foods.
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gangap36&show_icons=true&theme=radical" alt="Ganga's github stats" />
-
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangap36&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gangap36&show_icons=true&theme=radical" alt="Ganga's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangap36&layout=compact&theme=radical" />
 
 ### Connect with me:
 [<img align="left" alt="gp | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
